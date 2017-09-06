@@ -1,0 +1,2 @@
+# Drunk-Driving-laws-in-US-and-their-impact
+The data on the drunk driving incidents across the 48 states in US is analysed and interpreted using STATA. The factors included are age, education, Prior offence, the drunk driving laws specific to states, beer tax, per capita income, mortality rate, car fatalities etc. The insight are developed and issues such as heteroskedasticity and collinearity were addressed.
